@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+label{
+    font-family: cursive;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px;
+}
+.header-text{
+    background-image: linear-gradient(60deg, #101214 0%, #171a1d 100%);
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: cursive;
+    border-bottom: 5px solid white;
+}
+.form-label{
+    padding: 15px;
+}
